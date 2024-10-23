@@ -7,13 +7,15 @@
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=hjsdjko
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjsdjko&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjsdjko&show_icons=true&theme=tokyonight)](http://jsxs1.cn)
 
 </div>
 
 点击此网址在线查看本项目视频： [http://www.jsxs1.cn](http://www.jsxs1.cn)
 
-联系 **【QQ 979748385 】** 回复项目编号即可获取！！！
+**【🉑免费送！！！】**
+
+完整源码联系 **人工客服24小时**全天在线 **【QQ 979748385 】** 回复项目编号即可获取！！！
 
 ---
 
@@ -23,9 +25,9 @@
 
 💥💥💥点击此网址在线查看本项目视频： [http://www.jsxs1.cn](http://www.jsxs1.cn)
 
-![6449464bad613fd29c0dff81b5801c1](https://github.com/hjsdjko/hjsdjko/assets/120558513/09704eae-2d88-4f15-9e77-d82df3acd18f)
+![82e41f4df65c7c819ec690fd60bcaca](https://github.com/user-attachments/assets/e035d080-b35d-4137-8967-88d1b58ecaad)
 
-> **关注微信公众号【爱毕设】或添加QQ 【979748385】，可免费获取完整代码**
+> **关注微信公众号【爱毕设】或添加QQ 【979748385】，可获取完整代码**
 
 1. 关注微信公众号 《爱毕设》输入项目编码即可！！！
 
